@@ -5,7 +5,7 @@ var fs = require('fs');
 
 const pool = new Pool({
     user:"postgres",
-    host:"postgres-demo-1.cb2iwtkrwlhi.ap-south-1.rds.amazonaws.com",
+    host:"demo-db1.cb2iwtkrwlhi.ap-south-1.rds.amazonaws.com",
     database:"project",
     password:"SRSEETHA",
     port:5432,
